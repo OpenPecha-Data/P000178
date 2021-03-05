@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000178
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་འཁོར་རིམ་པ་གསུམ་གྱི་དྭོགས་གཅོད་རྩ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-09
   layers:
   - book_title
   - author
   - chapter_title
   - tsawa
   - quotation
+  id: KS-PK-09
 web_metadata:
   title:
     en: A Root Text and Commentary on Clarifying Queries Relating to the Three Turnings
